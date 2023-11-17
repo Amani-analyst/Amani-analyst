@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amani-analyst
+  👋 Hi, I’m @Amani-analyst
 - 👀 I’m interested in Data analysis Python and Machine learning
 - 🌱 I’m currently learning Introduction to Data Analysis at Cisco skill for all 
 - 💞️ I’m looking to work on my project Titled "The use of rented bicycles in New York.
